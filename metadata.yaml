@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6395
     wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44144#Protection-and-CommunismWith-a-Preface-by-The-Translator
 gutenberg_issued: '2013-11-10'
 gutenberg_type: Text
 identifiers:
