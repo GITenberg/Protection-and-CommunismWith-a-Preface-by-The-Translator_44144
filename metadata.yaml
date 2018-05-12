@@ -1,0 +1,32 @@
+_repo: Protection-and-CommunismWith-a-Preface-by-The-Translator_44144
+_version: 0.1.0
+alternative_title: Protectionisme et communisme. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Claude Frédéric
+    - Bastiat, Frederic
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+description: ''
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Free trade'
+- !lcsh 'Communism'
+title: Protection and Communism
+url: http://www.gutenberg.org/ebooks/44144
